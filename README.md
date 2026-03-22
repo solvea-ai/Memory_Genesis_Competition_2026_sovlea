@@ -10,17 +10,17 @@ See:  [memoryos-spring-boot-starter](https://github.com/solvea-ai/memoryos-sprin
 
 We have prepared a video introducing our project, which covers the following aspects:
 
-(a) Project Features
+### Project Features
 
+To be supplemented.
 
-
-(b) How We Use Memory
+### How We Use Memory
 
 For the same user across multiple conversations, key information (such as order number, phone number, return address, etc.) does not need to be requested repeatedly.
 
 For the same user with the same intent, the system provides consistent responses.
 
-(c) How This Memory Helps Users
+### How This Memory Helps Users
 
 Improves customer satisfaction for our clients and enables them to better serve their consumers.
 
