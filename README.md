@@ -12,19 +12,21 @@ We have prepared a video introducing our project, which covers the following asp
 
 ### Project Features
 
-To be supplemented.
+Agent Customer Service System Optimized with Long-Term Memory.
 
 ### How We Use Memory
 
 For the same user across multiple conversations, key information (such as order number, phone number, return address, etc.) does not need to be requested repeatedly.
 
-For the same user with the same intent, the system provides consistent responses.
+Identify user emotions, adapt to communication styles, and rapidly deliver solutions based on historical conversations.
+
+Dynamically build user profiles, understand preferences, and provide precise product recommendations.
 
 ### How This Memory Helps Users
 
 Improves customer satisfaction for our clients and enables them to better serve their consumers.
 
-See Video [xxxx]
+See Video https://aloe-prod.shulex-voc.com/doc/evermemos.mov
 
 ## Our Products
 
