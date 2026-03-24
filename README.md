@@ -1,4 +1,4 @@
-# Memory_Genesis_Competition_2026_sovlea
+# Memory_Genesis_Competition_2026_solvea
 
 
 ## Source Code
