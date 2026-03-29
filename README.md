@@ -30,6 +30,5 @@ See Video https://aloe-prod.shulex-voc.com/doc/evermemos.mov
 
 ## Our Products
 
-- [Solc
-vea AI](https://solvea.cx/)
+- [Solvea AI](https://solvea.cx/)
 - [VOC AI](https://www.voc.ai)
